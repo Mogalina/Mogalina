@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mogalina&label=Profile%20views&color=0e75b6&style=flat" alt="mogalina" /> </p>
 
-📫 Reach me at   **eric.moghioros000@gmail.com**
+📫 Reach me at   eric.moghioros000@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
