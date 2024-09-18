@@ -1,7 +1,4 @@
 <h1 align="center">Hi 🖐️, I'm Eric</h1>
-
-##
-
 <p align="center"> 📫 Reach me at   eric.moghioros000@gmail.com </p>
 
 ##
