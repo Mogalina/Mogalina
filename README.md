@@ -2,8 +2,6 @@
 
 <p align="center"> 📫 Reach me at   eric.moghioros000@gmail.com </p>
 
-##
-
 <h3 align="left">🙏 Connect with me 🙏</h3>
 <br />
 <p align="left">
