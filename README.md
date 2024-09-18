@@ -1,5 +1,4 @@
 <h1 align="center">Hi 🖐️, I'm Eric</h1>
-<h3 align="center">A passionate Computer Science student from Romania</h3>
 
 ##
 
