@@ -1,9 +1,7 @@
 <h1 align="center">Hi 🖐️, I'm Eric</h1>
 <h3 align="center">A passionate Computer Science student from Romania.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mogalina&label=Profile%20views&color=0e75b6&style=flat" alt="mogalina" /> </p>
-
-📫 Reach me at   eric.moghioros000@gmail.com
+<p align="center"> 📫 Reach me at   eric.moghioros000@gmail.com </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
