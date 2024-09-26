@@ -2,14 +2,6 @@
 
 <p align="center"> 📫 Reach me at   eric.moghioros000@gmail.com </p>
 
-<h3 align="left">🙏 Connect with me 🙏</h3>
-<br />
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/eric-moghioros-a04a22287/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/eric-moghioros-a04a22287/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/ericmoghioros/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/ericmoghioros/" height="30" width="40" /></a>
-</p>
-<br />
-
 [![Mogalina's GitHub | Languages Over Time](https://stats.quira.sh/Mogalina/languages-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=Mogalina)
 
 <h3 align="left">⚙️ Languages and technologies ⚙️</h3>
