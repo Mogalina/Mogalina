@@ -1,7 +1,5 @@
 <h1 align="center">Hi 🖐️, I'm Eric</h1>
 
-<p align="center"> 📫 Reach me at   eric.moghioros000@gmail.com </p>
-
 [![Mogalina's GitHub | Languages Over Time](https://stats.quira.sh/Mogalina/languages-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=Mogalina)
 
 <h3 align="left">⚙️ Languages and technologies ⚙️</h3>
