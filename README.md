@@ -1,6 +1,10 @@
 <h1 align="center">Hi, I'm Eric</h1>
 
-<h3 align="left">Languages and Technologies</h3>
+<h3 align="left">Languages</h3>
+
+<br>
+
+<h3 align="left">Technologies</h3>
 
 <br>
 
