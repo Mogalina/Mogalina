@@ -6,8 +6,6 @@
 
 <h2 align="left">Technologies</h2>
 
-<br>
-
 <div>
   <img src="https://img.icons8.com/?size=100&id=04OFrkjznvcd&format=png&color=000000" width="50" height="50"> &nbsp;
   <img src="https://img.icons8.com/?size=100&id=17842&format=png&color=000000" width="50" height="50"> &nbsp;
