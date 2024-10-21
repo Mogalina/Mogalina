@@ -8,7 +8,7 @@
   <img src="https://img.icons8.com/?size=100&id=9MJf0ngDwS8z&format=png&color=000000" width="45" height="45"> &nbsp;
   <img src="https://img.icons8.com/?size=100&id=sB4ejOwBVDr4&format=png&color=000000" width="45" height="45"> &nbsp;
   <img src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000" width="45" height="45"> &nbsp;
-  <img src="https://img.icons8.com/?size=100&id=wPohyHO_qO1a&format=png&color=000000" width="45" height="45"> &nbsp;
+  <img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" width="45" height="45"> &nbsp;
   <img src="https://img.icons8.com/?size=100&id=yjSayFwWHyCo&format=png&color=89AFDE" width="45" height="45"> &nbsp;
   <img src="https://img.icons8.com/?size=100&id=rgPSE6nAB766&format=png&color=000000" width="45" height="45"> &nbsp;
   <img src="https://img.icons8.com/?size=100&id=hsPbhkOH4FMe&format=png&color=317347" width="45" height="45"> &nbsp;
