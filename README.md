@@ -3,7 +3,7 @@
 <br>
 <h2 align="left">Technologies</h2>
 <br>
-<div style="display: flex; gap: 10px;">
+<div style="display: flex; gap: 25px;">
     <img src="https://img.icons8.com/?size=100&id=04OFrkjznvcd&format=png&color=000000" width="50" height="50">
     <img src="https://img.icons8.com/?size=100&id=17842&format=png&color=000000" width="50" height="50">
     <img src="https://img.icons8.com/?size=100&id=JRnxU7ZWP4mi&format=png&color=000000" width="50" height="50">
