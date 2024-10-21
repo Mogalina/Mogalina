@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Eric</h1>
 
-<h2 align="left">Languages</h2>
+<h2 align="left">Programming Languages</h2>
 
 <div>
   <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" width="45" height="45"> &nbsp;
@@ -11,10 +11,10 @@
   <img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" width="45" height="45"> &nbsp;
   <img src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" width="45" height="45"> &nbsp;
   <img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" width="45" height="45"> &nbsp;
-  <img src="https://img.icons8.com/?size=100&id=hsPbhkOH4FMe&format=png&color=317347" width="45" height="45"> &nbsp;
+  <img src="https://creazilla-store.fra1.digitaloceanspaces.com/icons/3257029/file-type-scss-icon-md.png" width="45" height="45"> &nbsp;
 </div>
 
-<h2 align="left">Technologies</h2>
+<h2 align="left">Technology Stacks</h2>
 
 <div>
   <img src="https://img.icons8.com/?size=100&id=04OFrkjznvcd&format=png&color=000000" width="45" height="45"> &nbsp;
