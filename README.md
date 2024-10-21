@@ -6,7 +6,7 @@
   <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" width="45" height="45"> &nbsp;
   <img src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" width="45" height="45"> &nbsp;
   <img src="https://img.icons8.com/?size=100&id=9MJf0ngDwS8z&format=png&color=000000" width="45" height="45"> &nbsp;
-  <img src="https://img.icons8.com/?size=100&id=47039&format=png&color=58B979" width="45" height="45"> &nbsp;
+  <img src="https://img.icons8.com/?size=100&id=sB4ejOwBVDr4&format=png&color=000000" width="45" height="45"> &nbsp;
   <img src="https://img.icons8.com/?size=100&id=EPbEfEa7o8CB&format=png&color=000000" width="45" height="45"> &nbsp;
   <img src="https://img.icons8.com/?size=100&id=wPohyHO_qO1a&format=png&color=000000" width="45" height="45"> &nbsp;
   <img src="https://img.icons8.com/?size=100&id=yjSayFwWHyCo&format=png&color=89AFDE" width="45" height="45"> &nbsp;
