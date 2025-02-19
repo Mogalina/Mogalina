@@ -17,8 +17,8 @@
 <h2 align="left">Technologies</h2>
 
 <div>
-  <img src="https://img.icons8.com/?size=100&id=04OFrkjznvcd&format=png&color=000000" width="45" height="45"> &nbsp;
   <img src="https://img.icons8.com/?size=100&id=17842&format=png&color=000000" width="45" height="45"> &nbsp;
+  <img src="https://img.icons8.com/?size=100&id=04OFrkjznvcd&format=png&color=000000" width="45" height="45"> &nbsp;
   <img src="https://img.icons8.com/?size=100&id=JRnxU7ZWP4mi&format=png&color=000000" width="45" height="45"> &nbsp;
   <img src="https://img.icons8.com/?size=100&id=47039&format=png&color=58B979" width="45" height="45"> &nbsp;
   <img src="https://img.icons8.com/?size=100&id=EPbEfEa7o8CB&format=png&color=000000" width="45" height="45"> &nbsp;
