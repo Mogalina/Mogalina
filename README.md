@@ -12,7 +12,6 @@
   <img src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" width="45" height="45"> &nbsp;
   <img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" width="45" height="45"> &nbsp;
   <img src="https://creazilla-store.fra1.digitaloceanspaces.com/icons/3257029/file-type-scss-icon-md.png" width="45" height="45"> &nbsp;
-  <img src="https://img.icons8.com/?size=100&id=24465&format=png&color=000000" width="45" height="45"> &nbsp;
 </div>
 
 <h2 align="left">Technologies</h2>
