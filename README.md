@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Eric</h1>
 
-<h2 align="left">Programming Languages</h2>
+<h3 align="left">Programming Languages</h2>
 
 <div>
   <img src="https://creazilla-store.fra1.digitaloceanspaces.com/icons/3256498/file-type-cpp-icon-md.png" width="45" height="45"> &nbsp;
@@ -14,7 +14,7 @@
   <img src="https://creazilla-store.fra1.digitaloceanspaces.com/icons/3257029/file-type-scss-icon-md.png" width="45" height="45"> &nbsp;
 </div>
 
-<h2 align="left">Technologies</h2>
+<h3 align="left">Technologies</h2>
 
 <div>
   <img src="https://img.icons8.com/?size=100&id=17842&format=png&color=000000" width="45" height="45"> &nbsp;
