@@ -4,7 +4,7 @@
 
 <div>
   <img src="https://creazilla-store.fra1.digitaloceanspaces.com/icons/3256498/file-type-cpp-icon-md.png" width="45" height="45"> &nbsp;
-  <img src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000" width="45" height="45"> &nbsp;
+  <img src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000" width="40" height="40"> &nbsp;
   <img src="https://img.icons8.com/?size=100&id=9MJf0ngDwS8z&format=png&color=000000" width="45" height="45"> &nbsp;
   <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" width="45" height="45"> &nbsp;
   <img src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" width="45" height="45"> &nbsp;
