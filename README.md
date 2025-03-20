@@ -25,3 +25,5 @@
   <img src="https://img.icons8.com/?size=100&id=wPohyHO_qO1a&format=png&color=000000" width="45" height="45"> &nbsp;
   <img src="https://img.icons8.com/?size=100&id=hsPbhkOH4FMe&format=png&color=317347" width="45" height="45"> &nbsp;
 </div>
+
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
