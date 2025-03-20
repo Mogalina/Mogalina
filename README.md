@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Eric</h1>
 
-<h2>Programming & Scripting</h2>
+<h2>Programming</h2>
 
 > <h3>General Programming</h3>  
 
