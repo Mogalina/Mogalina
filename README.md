@@ -11,7 +11,7 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 
-<img src="https://img.icons8.com/?size=100&id=H5X0Ms9ocJ99&format=png&color=FFFFFF" style="height: 30px;"/>
+<img src="https://img.icons8.com/?size=100&id=59996&format=png&color=FFFFFF" style="height: 30px;"/>
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
